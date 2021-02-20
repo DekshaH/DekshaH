@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **DekshaH/DekshaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I am Deksha H 👩‍💻
 
-🌱 I’m currently learning Web Development
-👩‍🎓 I'm pursuing my B.Tech degree at Kumuragauru College Of Technology
-📫 Reach me at : hdeksha@gmail.com
+**About Me:**
+
+🌱 I’m currently learning Web Development<br/>
+👩‍🎓 I'm pursuing my B.Tech degree at Kumuragauru College Of Technology<br/>
+📫 Reach me at : hdeksha@gmail.com<br/>
 
