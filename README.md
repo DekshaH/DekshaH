@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Deksha H 👩‍💻
+
+🌱 I’m currently learning Web Development
+👩‍🎓 I'm pursuing my B.Tech degree at Kumuragauru College Of Technology
+📫 Reach me at : hdeksha@gmail.com
+
