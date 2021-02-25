@@ -20,6 +20,6 @@ I am Deksha H 👩‍💻
 **About Me:**
 
 🌱 I’m currently learning Web Development<br/>
-👩‍🎓 I'm pursuing my B.Tech degree at Kumuragauru College Of Technology<br/>
+👩‍🎓 I'm pursuing my B.Tech degree at Kumaraguru College Of Technology<br/>
 📫 Reach me at : hdeksha@gmail.com<br/>
 
